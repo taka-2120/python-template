@@ -3,12 +3,13 @@
 ## Requirements
 
 - [Python Version](.python-version)
+- [pyenv](https://github.com/pyenv/pyenv)
 
 ## Library
 
 Here are already added.
 
-- python-dotenv
+- [python-dotenv](https://github.com/theskumar/python-dotenv)
 
 ## Setup
 
