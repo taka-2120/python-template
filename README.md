@@ -1,13 +1,19 @@
 # Simple Python Project Template
 
+## Description
+
+This is the best template for Python project to start coding as soon as possible.
+
 ## Requirements
 
-- [Python Version](.python-version)
+- Python
+
+  Version is specified using pyenv's [`.python-version`](./.python-version).
 - [pyenv](https://github.com/pyenv/pyenv)
 
 ## Library
 
-Here are already added.
+Here are libraries already added in [`requirements.txt`](./requirements.txt).
 
 - [python-dotenv](https://github.com/theskumar/python-dotenv)
 
@@ -15,14 +21,16 @@ Here are already added.
 
 1. Clone this repository.
 
-  ```bash
-  git clone https://github.com/taka-2120/simple-python-template
-  ```
+    ```bash
+    git clone https://github.com/taka-2120/fastapi-template
+    ```
 
-3. Run setup command.
+2. Run setup command.
 
-  ```bash
-  make setup
-  ```
+    ```bash
+    make setup
+    ```
 
 3. Start Coding!
+
+### Other Actions
